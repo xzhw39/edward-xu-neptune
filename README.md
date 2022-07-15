@@ -48,6 +48,6 @@ Note title and content can be entered directly and saved. The notes can be delet
 
 [GitHub](https://github.com/xzhw39/edward-xu-neptune)
 
-[Deployed Application](https://drive.google.com/file/d/1L4TrgLS3D6bHsq2br29fEcA_80UeovxQ/view?usp=sharing)
+[Deployed Application](https://salty-ridge-35295.herokuapp.com/)
 
 
